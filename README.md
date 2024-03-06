@@ -1,6 +1,6 @@
-## Notes App | Ensolvers Challenge
+## Notes App
 
-A note management application built with Spring Boot, React, and MySQL for the Ensolvers Challenge.
+A note management application built with Spring Boot, React, and MySQL.
 
 #### Description
 
