@@ -45,7 +45,7 @@ This project implements a note management system where users can create, archive
 1. **Clone the Repository**:
 
 ```
-    git clone https://github.com/ensolvers-github-challenges/Bucciarelli-3a0b06
+    git clone https://github.com/nazabucciarelli/notes_app
 ```
 
 2. **General Setup**:
